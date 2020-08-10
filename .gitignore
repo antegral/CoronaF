@@ -1,0 +1,9 @@
+# VSCode Environment File, Modules, Sequalize Models, debug, etc...
+.vscode
+node_modules
+models
+debug
+ignoreFiles
+
+# log Files
+*.log
