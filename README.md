@@ -37,7 +37,7 @@ const StuInfo = {
 Node.js가 설치되어있냐의 여부에 따라 다릅니다.
 만약 설치되어있다면, 간단하게 `module-download.bat`를 실행하고, `run.bat`를 실행하면 자동으로 실행됩니다.
 
-여러분이 리눅스, MacOS여도 상관 없습니다. 그저 파일 경로로 가서 `node index` 한번만 입력해주세요.
+여러분이 리눅스, MacOS여도 상관 없습니다. 그저 파일 경로로 가서 `npm install`을 한번 입력하고, `node index` 한번만 입력해주세요.
 
 **만약, Node.js가 없다면, [https://nodejs.org/ko/](https://) 로 접속해서 LTS라고 적힌 버튼을 클릭해서 다운로드 받으세요.
 그리고 설치하시면 됩니다.**
