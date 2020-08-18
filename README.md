@@ -1,5 +1,7 @@
 # 코로나 전자동 자가진단 (경기도)
 
+[![CodeFactor](https://www.codefactor.io/repository/github/antegral/coronaf/badge/master)](https://www.codefactor.io/repository/github/antegral/coronaf/overview/master)
+
 ## 사용방법
 
 ### 파일 수정
